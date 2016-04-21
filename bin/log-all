@@ -2,6 +2,7 @@
 
 build_in() {
   pushd $1 > /dev/null
+  echo "Branch: $(git rev-parse --abbrev-ref HEAD)"
   git log --pretty=oneline | head -n 5
   popd
 }
