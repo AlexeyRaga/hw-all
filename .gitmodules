@@ -1,0 +1,18 @@
+[submodule "hw-conduit"]
+	path = hw-conduit
+	url = git@github.com:haskell-works/hw-conduit.git
+[submodule "hw-rankselect"]
+	path = hw-rankselect
+	url = git@github.com:haskell-works/hw-rankselect.git
+[submodule "hw-bits"]
+	path = hw-bits
+	url = git@github.com:haskell-works/hw-bits.git
+[submodule "hw-diagnostics"]
+	path = hw-diagnostics
+	url = git@github.com:haskell-works/hw-diagnostics.git
+[submodule "hw-prim"]
+	path = hw-prim
+	url = git@github.com:haskell-works/hw-prim.git
+[submodule "hw-succinct"]
+	path = hw-succinct
+	url = git@github.com:haskell-works/hw-succinct.git
