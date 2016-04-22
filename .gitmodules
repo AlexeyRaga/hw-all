@@ -16,3 +16,9 @@
 [submodule "hw-succinct"]
 	path = hw-succinct
 	url = git@github.com:haskell-works/hw-succinct.git
+[submodule "hw-buildopts"]
+	path = hw-buildopts
+	url = git@github.com:haskell-works/hw-buildopts.git
+[submodule "hw-s3cache"]
+	path = hw-s3cache
+	url = git@github.com:haskell-works/hw-s3cache.git
