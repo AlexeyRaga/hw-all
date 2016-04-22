@@ -22,3 +22,6 @@
 [submodule "hw-conduit"]
 	path = hw-conduit
 	url = git@github.com:haskell-works/hw-conduit.git
+[submodule "hw-files"]
+	path = hw-files
+	url = git@github.com:haskell-works/hw-files.git
