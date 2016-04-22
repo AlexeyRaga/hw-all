@@ -1,6 +1,3 @@
-[submodule "hw-conduit"]
-	path = hw-conduit
-	url = git@github.com:haskell-works/hw-conduit.git
 [submodule "hw-rankselect"]
 	path = hw-rankselect
 	url = git@github.com:haskell-works/hw-rankselect.git
@@ -22,3 +19,6 @@
 [submodule "hw-s3cache"]
 	path = hw-s3cache
 	url = git@github.com:haskell-works/hw-s3cache.git
+[submodule "hw-conduit"]
+	path = hw-conduit
+	url = git@github.com:haskell-works/hw-conduit.git
