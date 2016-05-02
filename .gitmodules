@@ -25,3 +25,6 @@
 [submodule "hw-files"]
 	path = hw-files
 	url = git@github.com:haskell-works/hw-files.git
+[submodule "hw-parser"]
+	path = hw-parser
+	url = git@github.com:haskell-works/hw-parser.git
