@@ -28,3 +28,9 @@
 [submodule "hw-parser"]
 	path = hw-parser
 	url = git@github.com:haskell-works/hw-parser.git
+[submodule "hw-json"]
+	path = hw-json
+	url = git@github.com:haskell-works/hw-json.git
+[submodule "hw-xml"]
+	path = hw-xml
+	url = git@github.com:haskell-works/hw-xml.git
